@@ -6,6 +6,30 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "luiza2@mail.com",
+      "password": "$2a$10$ir5w6n/24w/Xyrh5LZDCx.9TUpH5uJdThM3SG7H4gQk4hug6Ux4/m",
+      "name": "Luiza Empresas",
+      "linkedin": "/luiza1234",
+      "level": "Junior",
+      "bio": "Aprendendo a programar",
+      "specialty": "Front-end",
+      "isAdmin": true,
+      "id": 2
+    },
+    {
+      "email": "luan@mail.com",
+      "password": "$2a$10$X52.s9WqoXuYxzcirsBD7etTwCb/L9KkIhlJdldbyDKd4QP1YPjTe",
+      "name": "luan",
+      "linkedin": "/luan123",
+      "level": "senior",
+      "bio": "Aprendendo a programar",
+      "specialty": "Front-end",
+      "isAdmin": false,
+      "id": 3
     }
-  ]
+  ],
+  "jobs": [],
+  "companyJobs": []
 }
