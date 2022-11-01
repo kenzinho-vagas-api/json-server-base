@@ -3,7 +3,8 @@
 </h1>
 
 <p align = "center">
-  http://localhost:3001 🡪 Essa base irá mudar assim que colocarmos no Heroku.
+  URL Base API Local -> http://localhost:3001  
+  URL Base API Remota -> https://kenzinho-vagas.herokuapp.com/
 </p>
 
 <p align="center">
