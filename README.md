@@ -202,7 +202,7 @@ body : {
 
 <h2 align ='center'> Salvar vagas (POST) </h2>
 
-URL: http://localhost:3001/jobs
+URL: /users/2/jobs
 
 ```json
 body : {
@@ -224,7 +224,7 @@ body : {
 
 <h2 align ='center'> Ver vagas salvas (GET) </h2>
 
-URL: http://localhost:3001/users/2?_embed=jobs
+URL: http://localhost:3001/users/2/jobs
 O 2 é referente ao id do usuário
 
 ```json
