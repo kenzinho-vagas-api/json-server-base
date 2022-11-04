@@ -17,17 +17,6 @@
       "specialty": "Front-end",
       "isAdmin": false,
       "id": 2
-    },
-    {
-      "email": "luan@mail.com",
-      "password": "$2a$10$gtgtZuYptj303oFqxHfjkumTKOA/Lute4tzEWYhp0ANkJea5IuBK.",
-      "name": "luan",
-      "linkedin": "/luan123",
-      "level": "Junior",
-      "bio": "Aprendendo a programar",
-      "specialty": "Front-end",
-      "isAdmin": false,
-      "id": 3
     }
   ],
   "jobs": [
@@ -62,17 +51,6 @@
       "level": "Júnior",
       "jobURL": "https://marcusmarques.com.br/wp-content/uploads/2019/04/logotipo-logomarca.jpg",
       "description": "Vaga destinada a júniors (2 a 4 anos de experiência), além disso é imprescíndivel que o programador tenha experiência com Node.js e TypeScript",
-      "candidates": [
-        {
-          "email": "teste@mail.com",
-          "name": "Teste Testando",
-          "linkedin": "/teste",
-          "level": "Junior",
-          "bio": "Aprendendo a programar",
-          "specialty": "Front-end",
-          "id": 2
-        }
-      ],
       "userId": "1",
       "id": 1
     },
@@ -89,26 +67,6 @@
       "level": "Pleno",
       "jobURL": "https://www.designevo.com/res/templates/thumb_small/green-and-blue-investment-building.webp",
       "description": "Vaga destinada a desenvolvedores plenos (5 a 10 anos de experiência), além disso é imprescíndivel que o programador tenha experiência com React e TypeScript",
-      "candidates": [
-        {
-          "email": "teste@mail.com",
-          "name": "Teste Testando",
-          "linkedin": "/teste",
-          "level": "Junior",
-          "bio": "Aprendendo a programar",
-          "specialty": "Front-end",
-          "id": 2
-        },
-        {
-          "email": "luan@mail.com",
-          "name": "luan",
-          "linkedin": "/luan123",
-          "level": "Junior",
-          "bio": "Aprendendo a programar",
-          "specialty": "Front-end",
-          "id": 3
-        }
-      ],
       "userId": "1",
       "id": 2
     },
@@ -126,28 +84,6 @@
       "level": "Sênior",
       "jobURL": "https://marcusmarques.com.br/wp-content/uploads/2017/03/logotipo.jpg",
       "description": "Vaga destinada a desenvolvedores sêniors (mais de 10 anos de experiência), além disso é imprescíndivel que o programador tenha experiência com Node.js e React",
-      "candidates": [
-        {
-          "email": "teste@mail.com",
-          "password": "$2a$10$m9k9/Jo0R8OLAEc6xCTAfe64db337Ov.o3xiHYHSC9N.kuiBM07Dq",
-          "name": "Teste Testando",
-          "linkedin": "/teste",
-          "level": "Junior",
-          "bio": "Aprendendo a programar",
-          "specialty": "Front-end",
-          "isAdmin": false,
-          "id": 2
-        },
-        {
-          "email": "luan@mail.com",
-          "name": "luan",
-          "linkedin": "/luan123",
-          "level": "Junior",
-          "bio": "Aprendendo a programar",
-          "specialty": "Front-end",
-          "id": 3
-        }
-      ],
       "userId": "1",
       "id": 3
     }
