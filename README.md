@@ -7,7 +7,7 @@
 </p>
 
 <p align = "center">
-  URL Base API Remota -> https://gifted-toad-veil.cyclic.app
+  URL Base API Remota -> https://kenzinho-vagas-api-fake.onrender.com
 </p>
 
 <p align="center">
